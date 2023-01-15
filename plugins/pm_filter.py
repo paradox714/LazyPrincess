@@ -364,7 +364,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                     caption=f_caption,
                     protect_content=True if ident == "filep" else False 
                 )
-                await query.answer('Darling Check Your Inbox, Maine Inbox mein movie bheji hai', show_alert=True)
+                await query.answer('Darling Check Your Inbox, Maine Inbox mein aapki show bheji hai', show_alert=True)
         except UserIsBlocked:
             await query.answer('Unblock the bot mahn !', show_alert=True)
         except PeerIdInvalid:
