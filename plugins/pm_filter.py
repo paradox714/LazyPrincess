@@ -712,8 +712,8 @@ async def auto_filter(client, msg, spoll=False):
     if imdb and imdb.get('poster'):
         try:
            l = await message.reply_photo(photo=imdb.get('poster'), caption=cap[:1024],
-                                         await asyncio.sleep(300)
-                                         await l.delete()
+           await asyncio.sleep(300)
+           await l.delete()
                                       reply_markup=InlineKeyboardMarkup(btn))
         except (MediaEmpty, PhotoInvalidDimensions, WebpageMediaEmpty):
             pic = imdb.get('poster')
