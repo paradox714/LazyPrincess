@@ -1,17 +1,17 @@
 class script(object):
     START_TXT = """Hello {},
-Myself <a href=https://t.me/{}>{}</a>,\n\nTrust me ! I can't even imagine how super-fast i can drive your Database channel \n\nAre you ready for Long Drive Baby Made by The_Raj...🤪"""
+Myself <a href=https://t.me/{}>{}</a>,\n\n Super Advance 1st Generation Powerful Female Robot 🤖 ! I can't even imagine how super-fast i can Provide You Shows From All Over the Globe 🌎 \n\nAre you ready for Thrill Baby , Made by The_Raj...🥀"""
     HELP_TXT = """𝙷𝙴𝚈 {}
 Here is the help for my COMMANDS."""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
 ✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/TheRaj71_bot>The_Raj</a>
-✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
-✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
-✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝗟𝗨𝗖𝗜𝗙𝗘𝗥 𝗜𝗡𝗖
-✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝑫𝒂𝒓𝒌 𝑾𝒆𝒃
+✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙽𝙰𝚂𝙰
+✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙰𝙽𝙲𝙸𝙴𝙽𝚃 𝙲𝚈𝙱𝙴𝚁𝙽𝙴𝚃𝙸𝙲𝙰𝙻
+✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙳𝙸𝙶𝙸𝚃𝙰𝙻 𝙿𝙰𝚁𝙰𝙳𝙾𝚇
+✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝗗𝗔𝗥𝗞 𝗪𝗘𝗕 ( 𝗟𝗨𝗖𝗜𝗙𝗘𝗥 𝗜𝗡𝗖 )
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
     SOURCE_TXT = """<b>NOTE:</b>
-- Maya is an open source project. 
+- Maya is an 1st Generation Ai project. 
 - Source - Confidential   
 
 <b>DEVS:</b>
